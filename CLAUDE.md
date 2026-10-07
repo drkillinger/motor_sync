@@ -48,4 +48,4 @@ Libraries live in the sketch's `src/` so the folder is self-contained; include a
   Arduino IDE.app (Homebrew has no bottle for this macOS). It shares the IDE's cores
   and libraries, and updates when the IDE updates.
 - Test with wheels off the ground; Serial Plotter @115200 shows `t1 t2 m1 m2 pwm1 pwm2`.
-- Not a git repo.
+- Git repo (local only, branch `main`, no remote).
